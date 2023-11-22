@@ -1,0 +1,264 @@
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\MvcKutuphane.dll.config
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\MvcKutuphane.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\MvcKutuphane.pdb
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\csc.exe
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\csc.exe.config
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\csc.rsp
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\csi.exe
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\csi.exe.config
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\csi.rsp
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Console.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\vbc.exe
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\vbc.exe.config
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\vbc.rsp
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\Antlr3.Runtime.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\EntityFramework.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\Newtonsoft.Json.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\PagedList.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\PagedList.Mvc.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.Helpers.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.Mvc.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.Optimization.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.Razor.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.WebPages.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\WebGrease.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\EntityFramework.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\PagedList.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\PagedList.Mvc.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.Helpers.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.Mvc.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.Optimization.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.Razor.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.WebPages.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\Newtonsoft.Json.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\obj\Debug\MvcAracKiralama.csproj.AssemblyReference.cache
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\obj\Debug\MvcAracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\obj\Debug\MvcAracKiralama.csproj.CopyComplete
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\obj\Debug\MvcKutuphane.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA\MvcKutuphane\obj\Debug\MvcKutuphane.pdb
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\obj\Debug\MvcAracKiralama.csproj.AssemblyReference.cache
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\obj\Debug\MvcAracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\obj\Debug\MvcKutuphane.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\obj\Debug\MvcKutuphane.pdb
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\MvcKutuphane.dll.config
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\MvcKutuphane.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\MvcKutuphane.pdb
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\csc.exe
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\csc.exe.config
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\csc.rsp
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\csi.exe
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\csi.exe.config
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\csi.rsp
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Console.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\vbc.exe
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\vbc.exe.config
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\vbc.rsp
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Antlr3.Runtime.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\EntityFramework.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Newtonsoft.Json.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\PagedList.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\PagedList.Mvc.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Helpers.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Mvc.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Optimization.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Razor.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.WebPages.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\WebGrease.dll
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\EntityFramework.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\PagedList.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\PagedList.Mvc.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Helpers.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Mvc.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Optimization.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Razor.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.WebPages.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Newtonsoft.Json.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mertk\Desktop\ARACKIRALAMA - Kopya (3)\MvcKutuphane\obj\Debug\MvcAracKiralama.csproj.CopyComplete
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\MvcKutuphane.dll.config
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\MvcKutuphane.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\MvcKutuphane.pdb
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\csc.exe
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\csc.exe.config
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\csc.rsp
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\csi.exe
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\csi.exe.config
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\csi.rsp
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.AppContext.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Collections.Immutable.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Console.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.IO.Compression.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.IO.FileSystem.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.IO.Pipes.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Reflection.Metadata.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.AccessControl.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.Claims.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.ValueTuple.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Xml.XPath.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\vbc.exe
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\vbc.exe.config
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\vbc.rsp
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\VBCSCompiler.exe
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\roslyn\VBCSCompiler.exe.config
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Antlr3.Runtime.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\EntityFramework.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\EntityFramework.SqlServer.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Microsoft.Web.Infrastructure.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Newtonsoft.Json.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\PagedList.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\PagedList.Mvc.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Diagnostics.DiagnosticSource.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Helpers.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Mvc.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Optimization.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Razor.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.WebPages.Deployment.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.WebPages.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.WebPages.Razor.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\WebGrease.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\EntityFramework.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\EntityFramework.SqlServer.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\PagedList.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\PagedList.Mvc.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Helpers.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Mvc.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Optimization.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.Razor.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.WebPages.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.WebPages.Deployment.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Web.WebPages.Razor.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Newtonsoft.Json.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Antlr3.Runtime.pdb
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\System.Diagnostics.DiagnosticSource.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\obj\Debug\MvcAracKiralama.csproj.AssemblyReference.cache
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\obj\Debug\MvcAracKiralama.csproj.CoreCompileInputs.cache
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\obj\Debug\MvcAracKiralama.csproj.CopyComplete
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\obj\Debug\MvcKutuphane.dll
+D:\projeler\ARACKIRALAMA - Kopya (3)\MvcKutuphane\obj\Debug\MvcKutuphane.pdb

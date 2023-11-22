@@ -1,0 +1,37 @@
+﻿@model MvcKutuphane.Models.Entity.TBLHAREKET
+@{
+    ViewBag.Title = "KiraVer";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+<form class="form-group" method="post">
+    <div></div>
+    <div style="margin-top:15px">
+        <label>Üye ID</label>
+   
+        @Html.DropDownListFor(k => k.TBLUYELER.ID, (List<SelectListItem>)ViewBag.dgr1,new { @class = "form-control" })
+    </div>
+    <div style="margin-top:15px">
+        <label>Plaka No</label>
+    
+        @Html.DropDownListFor(k => k.TBLARACLAR.ID, (List<SelectListItem>)ViewBag.dgr2, new { @class = "form-control" })
+    </div>
+    <div style="margin-top:15px">
+        <label>Personel ID</label>
+    
+        @Html.DropDownListFor(k => k.TBLPERSONEL.ID, (List<SelectListItem>)ViewBag.dgr3, new { @class = "form-control" })
+    </div>
+    <div style="margin-top:15px">
+        <label>Araç Alış Tarihi</label>
+        <input type="text" class="form-control" name="ALISTARIH" value="@DateTime.Now.ToShortDateString()" />
+    </div>
+    <div style="margin-top:15px">
+        <label>Araç İade Tarihi</label>
+        <input type="text" class="form-control" name="IADETARIH" value="@DateTime.Now.AddDays(7).ToShortDateString()" />
+    </div>
+    <div style="margin-top:15px">
+        <button class="btn btn-group" style="background-color:#a330b5; color:white">Aracı Kiraya Ver</button>
+        <input type="hidden" value="False" name="ISLEMDURUM" />
+    </div>
+</form>
+

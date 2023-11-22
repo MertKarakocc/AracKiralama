@@ -1,0 +1,38 @@
+﻿@model MvcKutuphane.Models.Entity.TBLARACLAR
+@{
+    ViewBag.Title = "AracEkle";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+<form class="form-group" method="post">
+    <div></div>
+    <div style="margin-top:15px">
+        <label>PLAKA </label>
+        @Html.TextBoxFor(k => k.PLAKA, new { @class = "form-control" })
+    </div>
+    <div style="margin-top:15px">
+        <label>MODEL MARKA</label>
+        @Html.DropDownListFor(k => k.TBLMODEL.ID, (List<SelectListItem>)ViewBag.dgr1, new { @class = "form-control" })
+    </div>
+    <div style="margin-top:15px">
+        <label>YAKIT</label>
+        @Html.DropDownListFor(k => k.TBLYAKIT.ID, (List<SelectListItem>)ViewBag.dgr2, new { @class = "form-control" })
+    </div>
+    <div style="margin-top:15px">
+        <label>Yılı</label>
+        @Html.TextBoxFor(k => k.YIL, new { @class = "form-control" })
+    </div>
+    <div style="margin-top:15px">
+        <label>RENK</label>
+        @Html.TextBoxFor(k => k.RENK, new { @class = "form-control" })
+    </div>
+    <div style="margin-top:15px">
+        <label>KİRA FİYATI </label>
+        @Html.TextBoxFor(k => k.KIRAFIYATI, new { @class = "form-control" })
+    </div>
+    <div style="margin-top:15px">
+        <button class="btn btn-info">Araç Ekle</button>
+    </div>
+   <input type="hidden" name="Durum" value="True" />
+</form>
+
